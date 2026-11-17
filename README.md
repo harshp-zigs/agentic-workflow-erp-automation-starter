@@ -70,13 +70,3 @@ Content-Type: application/json
 ## Get Started
 
 Ready to connect LLMs to your ERP safely? Visit [zignuts.com](https://zignuts.com/) to speak with the team.
-
-## Publish with GitHub Pages
-
-1. Add `erp-ai-integration-services.jpg` to the repository root.
-2. Go to **Settings > Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. The site will be available at `https://harshp-zigs.github.io/agentic-workflow-erp-automation-starter/`.
-
-## Topics
-
-`erp-integration` `llm-orchestration` `idempotency` `middleware` `ai-agents` `api-security` `enterprise-ai`
